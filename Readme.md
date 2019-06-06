@@ -1,6 +1,6 @@
 Default React / Firebase starting project
 
-##Config
+## Config
 - create ```.env``` file
 - Paste these keys, with your unique values
 ```
